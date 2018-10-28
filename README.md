@@ -10,4 +10,4 @@ It uses React.JS as Javascript framework in the front-end and Node.JS as back-en
 
 ## Domain Driven Design
 
-Yummy's case study can be found [here] (https://docs.google.com/presentation/d/1nFLs4ZtQgfzE2KsBd9N6lezpsE4TH46gaUFGyrm64EM/edit?usp=sharing)
+Yummy's case study can be found [here](https://docs.google.com/presentation/d/1nFLs4ZtQgfzE2KsBd9N6lezpsE4TH46gaUFGyrm64EM/edit?usp=sharing)
